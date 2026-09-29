@@ -358,6 +358,7 @@ Use:
 - `docs/PRODUCT.md` for product scope and behavior
 - `docs/ARCHITECTURE.md` for architectural decisions and boundaries
 - `docs/DESIGN.md` for visual and interaction design
+- `docs/ROADMAP.md` for milestone sequencing and implementation priorities
 - `AGENTS.md` for agent operating rules
 
 Do not duplicate the same specification across multiple documents unnecessarily.
